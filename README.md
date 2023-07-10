@@ -1,6 +1,6 @@
 # Luis Fernándo Zuñiga Lemus
 
-<img src="Fernando.jpg" alt="Imagen de Luis Fernándo Zuñiga Lemus" width="42" height="42">
+<img src="Fernando.jpg" alt="Imagen de Luis Fernándo Zuñiga Lemus" width="300" height="200">
 
 ## Datos personales
 - Nombre y apellidos: Luis Fernándo Zuñiga Lemus
