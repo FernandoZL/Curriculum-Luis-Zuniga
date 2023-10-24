@@ -32,8 +32,8 @@ Soy un Bachiller en Computación con Orientación Comercial que busca estabilida
 - Abr. 2020 – Ago. 2020: Delivery, Glovo, Villa Nueva, Guatemala
 - Oct. 2020 – Oct. 2020: Inventarios, Sistegua S.A., Amatitlán, Guatemala
 - Oct. 2020 – May. 2022: Auxiliar Importaciones y Exportaciones, Suministros y Alimentos S.A., Mixco, Guatemala
-- May. 2022 – Sep. 2022: Asistente Importaciones y Exportaciones, Suministros y Alimentos S.A., Mixco, Guatemala
-- Sep. 2022 – Actualmente: Analista Corporativo, Suministros y Alimentos S.A., Mixco, Guatemala
+- May. 2022 – Sep. 2023: Asistente Importaciones y Exportaciones, Suministros y Alimentos S.A., Mixco, Guatemala
+- Otc. 2023 – Actualmente: Analista Corporativo, Suministros y Alimentos S.A., Mixco, Guatemala
 
 ## Habilidades
 - Dominio en paquetes de Microsoft Office
