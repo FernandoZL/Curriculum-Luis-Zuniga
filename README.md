@@ -69,8 +69,9 @@ Soy una persona joven, formal y llena de energía para integrarme en un equipo d
 
 ## Cursos
 - Ene 2013 – Sep. 2013: Operador de Computadoras, Intecap Villa Nueva, Guatemala
-- May 2022 - May 2023: Excel (Básico – Intermedio – Avanzado)
 - May 2021: Curso básico de Power Bi
+- May 2022 - May 2023: Excel (Básico – Intermedio – Avanzado)
+- Jul 2023 - Ago 2023 POWER BI ESSENTIALS
 
 ## Prácticas
 - Oct 2014 –  Sep.  2014: Wavin Amanco Centroamérica, Guatemala
